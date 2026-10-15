@@ -36,14 +36,6 @@ Me chamo Vinicius Pimentel, sou Desenvolvedor FullStack e apaixonado por tecnolo
     style="padding-right: 10px;" 
     src="https://devicons.io/devicons/icons/spring.svg" 
 />
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicons.io/devicons/icons/angular-icon.svg" 
-/>
 
 <img
     align="left"
@@ -72,14 +64,6 @@ Me chamo Vinicius Pimentel, sou Desenvolvedor FullStack e apaixonado por tecnolo
     src="https://devicons.io/devicons/icons/docker-icon.svg" 
 />
 
-<img
-    align="left"
-    alt="Kafka"
-    title="Kafka"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://devicons.io/devicons/icons/kafka-icon.svg"
-/>
 <br/>
 <br/>
 
